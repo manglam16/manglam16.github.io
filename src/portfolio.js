@@ -17,7 +17,7 @@ const header = {
   
   const projects = [
     {
-      name: 'DesiDukaan',
+      name: 'Desidukaan',
       description:
         'Still in development phase',
       stack: ['', '', ''],
