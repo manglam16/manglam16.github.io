@@ -17,13 +17,6 @@ const header = {
   
   const projects = [
     {
-      name: 'OffBeat',
-      description:
-        '',
-      stack: ['Kotlin', 'Firebase', 'Android Studio'],
-      sourceCode: 'https://github.com/manglam16/offbeat-1',
-    },
-    {
       name: 'DesiDukaan',
       description:
         'Still in development phase',
